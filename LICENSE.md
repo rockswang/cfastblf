@@ -1,0 +1,73 @@
+# End User License Agreement (EULA)
+## cfastblf Freeware License
+
+**IMPORTANT - READ CAREFULLY:** This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and the author of cfastblf for the software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+
+## 1. GRANT OF LICENSE
+
+The SOFTWARE PRODUCT is licensed as follows:
+
+### 1.1 Installation and Use
+The author grants you a non-exclusive, non-transferable, limited license to install and use the SOFTWARE PRODUCT for personal, educational, or commercial purposes.
+
+### 1.2 Backup Copies
+You may make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.
+
+## 2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+
+### 2.1 Maintenance of Copyright Notices
+You must not remove or alter any copyright notices on any copies of the SOFTWARE PRODUCT.
+
+### 2.2 Distribution
+You may redistribute the SOFTWARE PRODUCT in its original, unmodified form, provided that:
+- The original copyright notices are maintained
+- No fees are charged for the redistribution
+- The SOFTWARE PRODUCT is distributed with this EULA
+- The redistribution is not part of a commercial product or service
+
+### 2.3 Prohibition on Reverse Engineering
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+### 2.4 Commercial Use
+The SOFTWARE PRODUCT may be used for commercial purposes without additional fees.
+
+### 2.5 Technical Limitations
+The free version of the SOFTWARE PRODUCT has the following technical limitations:
+- Only supports Windows operating systems
+- Limited to processing 2 million CAN/CANFD frames
+- Data exceeding the frame limit will be truncated
+
+## 3. COPYRIGHT
+
+All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), and any copies of the SOFTWARE PRODUCT are owned by the author. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material.
+
+## 4. NO WARRANTIES
+
+The author expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT and any related documentation is provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The entire risk arising out of use or performance of the SOFTWARE PRODUCT remains with you.
+
+## 5. LIMITATION OF LIABILITY
+
+In no event shall the author be liable for any special, consequential, incidental or indirect damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the SOFTWARE PRODUCT, even if the author has been advised of the possibility of such damages.
+
+## 6. TERMINATION
+
+Without prejudice to any other rights, the author may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts.
+
+## 7. GOVERNING LAW
+
+This EULA shall be governed by and construed in accordance with the laws of the People's Republic of China.
+
+## 8. CONTACT INFORMATION
+
+For questions about this EULA or to obtain a commercial license without the limitations of the free version, please contact:
+
+**Email:** rockswang@foxmail.com
+**GitHub:** https://github.com/rockswang/cfastblf
+
+## 9. ENTIRE AGREEMENT
+
+This EULA constitutes the entire agreement between you and the author concerning the SOFTWARE PRODUCT and supersedes any prior verbal or written communications, proposals, or representations.
+
+---
+
+**By installing or using the SOFTWARE PRODUCT, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions.**

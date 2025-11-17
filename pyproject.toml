@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cfastblf"
-version = "0.1.0"
+version = "0.1.1"
 description = "Cython-accelerated BLF file reading/writing and signal query library."
 readme = "README.md"
 authors = [
